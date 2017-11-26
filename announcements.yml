@@ -2,80 +2,68 @@ Enabled: true
 Announcements:
   hub:
     Messages:
-    - '&f= &9&oYou are in the HUB! All servers are now 1.10 only! Use /server (server)
+    - '&f= &9&oYou are in the HUB! All servers are now 1.10+! Use /server (server)
       or walk through one of the portals to travel between servers! &f='
-    Interval: 150
+    Interval: 100
   hardcore:
     Messages:
     - '&f= &6Remember, only gold apples, potions, and totems regen your health! &f='
     - '&f= &cThe goal of hardcore is to survive, make money, and improve your chances
       of survival next week, use &f/sell hand &cto make money. &f='
-    Interval: 1250
+    Interval: 1200
   survival:
     Messages:
-    - '&f= &2&oSurvival &eVIP &2&onow comes with /sell, /fix, and much more! Check
-      out &f/warp donations &2&oon the skyblock server, or &f/shop &2&oon any server
+    - '&f= &a&oSurvival &eVIP &a&onow comes with /sell, /fix, and much more! Check
+      out &f/warp donations &a&oon skyblock, or use &f/buy &a&oon any server
       to see the perks! &f='
-    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! Only
-      the first two to get a package each month get the &aHUGE discount&d!  &d&o$55
-      (45%) off with the year long package and $15 (25%) off with the 6 month package.
-      Get it before its gone! Use &f/shop &dto donate! &f='
-    Interval: 1250
+    - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
+    Interval: 1200
   skyblock:
     Messages:
     - '&f= &9&oFeeding seeds to sheared sheep regrows their wool! Try it out! &f='
     - '&f= &c&oRunning out of ideas for your skyblock island? Well here are some ideas
       for you, try them out! &6http://bit.ly/1L5yfLr &f='
-    - '&f= &6&oCheck out &f/warp donations &6&oor &f/shop &6&oto see all the &fNEW
-      &eVIP &6&operks for every server!  Skyblock &eVIP &6&onow comes with access
-      to the new and improved &eVIP shop! &f='
-    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! Only
-      the first two to get a package each month get the &aHUGE discount&d!  $55 (45%)
-      off the year long package and $15 (25%) off the 6 month package. Get it before
-      its gone! Use &f/shop &dto donate! &f='
-    Interval: 1250
+    - '&f= &a&oSkyblock &eVIP &a&onow comes with access to the new and improved &eVIP shop! 
+      &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see all the &fNEW
+      &eVIP &a&operks for every server!   &f='
+    - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
+    - '&f= &6&oYou can now use &f/shop &6&oto access the shop remotely, try it out! &f='
+    Interval: 1200
   global:
     Messages:
-    - '&f= &d&oCheck out our website at &6www.LionheartMC.net &f='
-    - '&f= &bJoin us in our new Discord server! &6http://bit.ly/2nu69UW &f='
+    - '&f= &b&oJoin us on our discord server for updates, applications, community, and more: Use &f/discord ='
     - '&f= &a&oBe sure to read the full rules posted on the forums! &6http://bit.ly/1C9WIcE
       &f='
-    - '&f= &cThe hardcore server is now open to everyone! Use the portal in the hub
-      or &f/hc &cto get there! &f='
-    - '&f= &bCome join us &c&levery Saturday &r&bfor a get-together with fun and games!
+    - '&f= &bCome join us &c&levery Saturday &r&bfor a server-wide event with fun and games!
       They will go from &6&k&lo&r&6&l4:30-5:30pm PST&f/&e&l7:30 - 8:30pm EST&ko&r&b!
       &f'
+    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! &d&oYou get &6$55
+      off (45%) &d&owith the year long package and &6$15 off (25%) &d&owith the 6 month package.
+      Use &f/buy &d&oto donate! &f='
     Interval: 900
   skygrid:
     Messages:
     - '&f= &9&oSpawners can be changed with a Spawn Egg! &f='
     - '&f= &a&oSkygrid VIP rank can harvest spawners with Silk Touch pickaxes and
-      much more! &f/shop &a&oon any server or &f/warp donations &a&oon the skyblock
-      server to see the perks! &f='
-    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! Only
-      the first two to get a package each month get the &aHUGE discount&d!  $55 (45%)
-      off the year long package and $15 (25%) off the 6 month package. Get it before
-      its gone! Use &f/shop &dto donate! &f='
-    Interval: 1250
+      much more! &f/shop &a&oon any server or &f/warp donations &a&oon skyblock
+      to see the perks! &f='
+    Interval: 1200
   prison:
     Messages:
     - '&o&aM&be&co&dw'
     - '&o&b#&aMordins&bHobo&cFire'
-    Interval: 2000
+    - '&f= &c&oThis is the pre-release build of prison!  It is still being built and developed, and thus it 
+      may not be completely balanced. Message CavemanlyMan or _Syntax_Error on discord with any problems! &f='
+    - '&f= &a&oPrison doesn't have a VIP rank yet, but you should still donate! Use &f/buy &a&oon any server or visit
+      &f/warp donations &a&oon skyblock to see the perks! &f='
+    Interval: 1200
   plots:
     Messages:
-    - '&f= &9&oCheck out the Plots DynMap &6http://lionheartmc.net/dynmap &f='
     - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
-    - '&f= &c&oPlots VIP rank gets full access to world edit on their plot and much
-      more! &f/shop &c&oon any server, or &f/warp donations &c&oon the skyblock server
-      to see the perks! &f='
-    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! Only
-      the first two to get a package each month get the &aHUGE discount&d!  $55 (45%)
-      off the year long package and $15 (25%) off the 6 month package. Get it before
-      its gone! Use &f/shop &dto donate! &f='
+    - '&f= &a&oPlots &eVIP &a&orank gets full access to world edit on their plots and much
+      more! Use &f/buy &a&oon any server, or use &f/warp donations &a&oon skyblock to see the perks! &f='
     Interval: 1250
   vanilla:
     Messages:
-    - '&f= &9&oClaim your buildings! Check out &6http://bit.ly/1BNBxmR &9for a tutorial!
-      &f='
-    Interval: 1200
+    - '&o&aM&be&co&dw'
+    Interval: 1250
