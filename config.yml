@@ -1,0 +1,56 @@
+Database:
+  Threads: 5
+  Username: mc
+  Port: '3306'
+  Database: minecraft
+  Host: localhost
+  Password: minecraft
+Table:
+  # This can be used if you have multiple Proxies to seperate the Homes in it
+  Homes: homes
+  # This can be used if you have multiple Proxies to seperate the Players in it
+  Players: players
+  # This can be used if you have multiple Proxies to seperate the Warps in it
+  Warps: warps
+  # This can be used if you have multiple Proxies to seperate the Bans in it
+  Bans: bans
+  # This can be used if you have multiple Proxies to seperate the Portals in it
+  Portals: portals
+  # This can be used if you have multiple Proxies to seperate the Spawns in it
+  Spawns: spawns
+ConvertFromBungeeSuite: false
+BungeeSuiteDatabase:
+  Threads: 5
+  Username: username
+  Port: '3306'
+  Database: minecraft
+  Host: localhost
+  Password: password
+MOTD:
+  # Turn this to false if you want to use your regular /motd comand (requires restart)
+  Enabled: true
+Seen:
+  # Turn this to false if you want to use your your regular /seen comand (requires restart)
+  Enabled: true
+# 
+NewPlayerBroadcast: false
+BroadcastProxyConnectionMessages: false
+PlayerDisconnectDelay: 10
+# This should be true on offline Mode Server since they can't use UUIDs provided by Mojang
+OverwriteUUID: false
+# Do not alter this. It will be used automaticly.
+Inited: true
+Version:
+  Database:
+    # Stored version informations. If you alter this you can damage your Database
+    Ban: 3
+    # Stored version informations. If you alter this you can damage your Database
+    Homes: 2
+    # Stored version informations. If you alter this you can damage your Database
+    Players: 2
+    # Stored version informations. If you alter this you can damage your Database
+    Portals: 1
+    # Stored version informations. If you alter this you can damage your Database
+    Spawns: 1
+    # Stored version informations. If you alter this you can damage your Database
+    Warps: 1

@@ -1,0 +1,45 @@
+Enabled: true
+Announcements:
+  test:
+    Messages:
+    - '&o&4Welcome to the test server! This is only a test.'
+    - '&o&aIf this were a real server the announcements would not be so strange'
+    - '&o&fHow about one more spammy announcement?'
+    - '&o&aM&be&co&dw'
+    Interval: 150
+  skyblock:
+    Messages:
+    - '&f= &o&9Feeding seeds to sheared sheep regrows their wool! Try it out! &f='
+    - '&f= &o&bVisit the Player Markets! &6Lots of great locations available! &f='
+    - '&f= &a&oBe sure to read the rules posted on the forums! &6http://bit.ly/1C9WIcE
+      &f='
+    - '&f= &o&cHere are some ideas for your island, try them out! &6http://bit.ly/1L5yfLr
+      &f='
+    Interval: 1000
+  global:
+    Messages:
+    - '&f= &o&6Vanilla VIP package now available! &f/shop&6 from the Vanilla server!
+      &f='
+    - '&f= &o&dCheck out our website at &6www.LionheartMC.net &f='
+    - '&f= &o&bCheck out our Facebook page! &6on.fb.me/18SSYWx &f='
+    - '&f= &o&bCheck out our Twitter page! &6twitter.com/Lionheart_MC &f='
+    Interval: 900
+  prison:
+    Messages:
+    - '&o&aM&be&co&dw'
+    - '&o&b#&aMordins&bHobo&cFire'
+    Interval: 2000
+  plots:
+    Messages:
+    - '&f= &o&9Check out the Plots DynMap &6http://lionheartmc.net/dynmap &f='
+    - '&f= &bYou can change the time! Use &6/ptime day &bor &6/ptime night &f='
+    Interval: 1200
+  vanilla:
+    Messages:
+    - '&f= &o&9Claim your buildings! Check out &6http://bit.ly/1BNBxmR &9for a tutorial!
+      &f='
+    - '&f= &a&oBe sure to read the rules posted on the forums! &6http://bit.ly/1C9WIcE
+      &f='
+    - '&f= &a&oNew Voting Rewards!! Type &6/vr rewards &ato see what you can win!
+      &f='
+    Interval: 1200
