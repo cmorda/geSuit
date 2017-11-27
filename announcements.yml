@@ -22,7 +22,7 @@ Announcements:
     Messages:
     - '&f= &9&oFeeding seeds to sheared sheep regrows their wool! Try it out! &f='
     - '&f= &c&oRunning out of ideas for your skyblock island? Well here are some ideas
-      for you, try them out! &6http://bit.ly/1L5yfLr &f='
+      for you, try them out! &6http://bit.ly/2ztnHal &f='
     - '&f= &a&oSkyblock &eVIP &a&onow comes with access to the new and improved &eVIP shop! 
       &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see all the &fNEW
       &eVIP &a&operks for every server!   &f='
@@ -31,8 +31,8 @@ Announcements:
     Interval: 1200
   global:
     Messages:
-    - '&f= &b&oJoin us on our discord server for updates, applications, community, and more: Use &f/discord ='
-    - '&f= &a&oBe sure to read the full rules posted on the forums! &6http://bit.ly/1C9WIcE
+    - '&f= &b&oJoin us on our discord server for updates, fun, community, and more: Use &f/discord ='
+    - '&f= &a&oBe sure to read the full rules posted on the forums! &6http://bit.ly/2AC5Su4
       &f='
     - '&f= &bCome join us &c&levery Saturday &r&bfor a server-wide event with fun and games!
       They will go from &6&k&lo&r&6&l4:30-5:30pm PST&f/&e&l7:30 - 8:30pm EST&ko&r&b!
@@ -40,7 +40,8 @@ Announcements:
     - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! &d&oYou get &6$55
       off (45%) &d&owith the year long package and &6$15 off (25%) &d&owith the 6 month package.
       Use &f/buy &d&oto donate! &f='
-    - "&f= &b&oDon't forget to vote! Check the announcements channel on our discord server for the vote links! &f="
+    - "&f= &b&oDon't forget to vote! Go to &flionheartmc.enjin.com &b&ofor the vote links! &f="
+    - '&f= &3&oVist our website! &6lionheartmc.enjin.com &f='
     Interval: 900
   skygrid:
     Messages:
