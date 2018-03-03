@@ -23,11 +23,13 @@ Announcements:
     - '&f= &9&oFeeding seeds to sheared sheep regrows their wool! Try it out! &f='
     - '&f= &c&oRunning out of ideas for your skyblock island? Well here are some ideas
       for you, try them out! &6http://bit.ly/2ztnHal &f='
-    - '&f= &a&oSkyblock &eVIP &a&onow comes with access to the new and improved &eVIP shop! 
-      &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see all the &fNEW
+    - '&f= &a&oSkyblock &eVIP &a&ois now better than ever! 
+      &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see all the great
       &eVIP &a&operks for every server!   &f='
     - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
     - '&f= &6&oYou can now use &f/shop &6&oto access the shop remotely, try it out! &f='
+    - '&f= &2&oDo challenges and get rewarded! Use &c/c&2&o! &f='
+    - '&f= &a&oTry out Mob Arena and win rewards! Use &f/ma help &a&or &f/ma j (arena)&a&o! &f='
     Interval: 1200
   global:
     Messages:
