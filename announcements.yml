@@ -56,10 +56,11 @@ Announcements:
     Messages:
     - '&o&aM&be&co&dw'
     - '&o&b#&aMordins&bHobo&cFire'
-    - '&f= &c&oThis is the pre-release build of prison!  It is still being built and developed, and thus it 
+    - '&f= &c&oThis is the closed-beta build of prison!  It is still being developed, and thus it 
       may not be completely balanced. Message CavemanlyMan or _Syntax_Error on discord with any problems! &f='
     - "&f= &a&oPrison doesn't have a VIP rank yet, but you should still donate! Use &f/buy &a&oon any server or visit
       &f/warp donations &a&oon skyblock to see the perks! &f="
+    - '&f= &c&oTry out the &f/membermenu &c&ocommand to discover the awesome features of lionheart prison! &f='
     Interval: 1200
   plots:
     Messages:
