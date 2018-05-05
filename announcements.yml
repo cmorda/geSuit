@@ -60,6 +60,7 @@ Announcements:
     - '&f= &6&oHaving trouble figuring out what to do? Use &f/warp tutorial &6&oor ask a staff member for help. &f='
     - '&f= &d&oUse &f/prankup &d&oto progress, and &f/pranks &d&o to see rankup prices! &f='
     - '&f= &3&oHave you claimed your daily gift yet? Use &f/gift&3&o! &f='
+    - '&f= &3&oCheck out &c/warp tutorial &3&obefore asking too many questions.  It has a lot of useful info. &f='
     Interval: 1200
   plots:
     Messages:
