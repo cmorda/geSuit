@@ -2,7 +2,7 @@ Enabled: true
 Announcements:
   hub:
     Messages:
-    - '&f= &9&oYou are in the HUB! All servers are now at least 1.10+! Use /server (server)
+    - '&f= &9&oYou are in the HUB! All servers are now at least 1.11.2+! Use /server (server)
       or walk through one of the portals to travel between servers! &f='
     Interval: 100
   hardcore:
@@ -13,9 +13,8 @@ Announcements:
     Interval: 1200
   survival:
     Messages:
-    - '&f= &a&oSurvival &6V&cI&dP &a&onow comes with /sell, /fix, and much more! Check
-      out &f/warp donations &a&oon skyblock, or use &f/buy &a&oon any server
-      to see the perks! &f='
+    - '&f= &a&oSurvival &6V&cI&dP &a&onow comes with /sell, /fix, and even access to a decorative head shop! Check
+      out &f/warp donations, or use &f/buy &a&oon any server to see the perks! &f='
     - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
     Interval: 1200
   skyblock:
@@ -39,10 +38,9 @@ Announcements:
     - '&f= &bCome join us &c&levery Saturday &r&bfor a server-wide event with fun and games!
       They will go from &6&k&lo&r&6&l4:30-5:30pm PST &f/ &e&l7:30-8:30pm EST&ko&r&b!
       &f'
-    - '&f= &d&oBe the first to get the &eNEW, &fLONGER LASTING &d&oVIP PACKAGES! &d&oYou get &6$55
-      off (45%) &d&owith the year long package and &6$15 off (25%) &d&owith the 6 month package.
+    - '&f= &d&oYou can get &6V&cI&dP &d&ofor up to a year at once and get a &fHUGE discount&d&o!
       Use &f/buy &d&oto donate! &f='
-    - "&f= &b&oDon't forget to vote! Go to &fwww.lionheartmc.net/vote &b&ofor the vote links! &f="
+    - "&f= &b&oDon't forget to vote! Use &f/vote &b&ofor the vote links! &f="
     - '&f= &3&oVist our website! &6www.lionheartmc.net &f='
     - '&f= &c&oSkyblock has been reset, and prison has been released! &f/sb &c&oor &f/prison&c! &f='
     Interval: 900
@@ -52,19 +50,19 @@ Announcements:
     Interval: 1200
   prison:
     Messages:
-    - "&f= &a&oPrison &6V&cI&dP &a&ocomes with fly, access to the &6V&cI&dP &5Ward&a&o, and claimable rewards every 8 hours!
-      &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see the gnarly
-      &6V&cI&dP &a&operks you can get for each server! &f="
+    - "&f= &a&oPrison &6V&cI&dP &a&ocomes with fly, access to the &6V&cI&dP &5Ward&a&o, and rewards every 8 hours!
+      &a&oCheck out &f/warp donations &a&oor use &f/buy &a&oto see the perks you can get for each server! &f="
     - '&f= &c&oTry out the &f/membermenu &c&ocommand to discover the awesome features of lionheart prison! &f='
     - '&f= &6&oHaving trouble figuring out what to do? Use &f/warp tutorial &6&oor ask a staff member for help. &f='
-    - '&f= &d&oUse &f/prankup &d&oto progress, and &f/pranks &d&o to see rankup prices! &f='
+    - '&f= &d&oUse &f/rankup &d&oto progress, and &f/pranks &d&o to see rankup prices! &f='
     - '&f= &3&oHave you claimed your daily gift yet? Use &f/gift&3&o! &f='
     - '&f= &3&oCheck out &c/warp tutorial &3&obefore asking too many questions.  It has a lot of useful info. &f='
+    - '&f= &6Can't get rid of some items? Click on the disposal signs under the potion shops! &f='
     Interval: 1200
   plots:
     Messages:
     - '&f= &b&oYou can change the time! Use &6/ptime day &b&oor &6/ptime night &f='
-    - '&f= &a&oPlots &6V&cI&dP &a&orank gets full access to world edit on their plots and much
+    - '&f= &a&oPlots &6V&cI&dP &a&orank gets full access to world edit, access to a decorative head database, and much
       more! Use &f/buy &a&oon any server, or use &f/warp donations &a&oon &f/skyblock &a&oto see the perks! &f='
     Interval: 1250
   vanilla:
