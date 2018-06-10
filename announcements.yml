@@ -29,6 +29,7 @@ Announcements:
     - '&f= &6&oYou can now use &f/shop &6&oto access the shop remotely, try it out! &f='
     - '&f= &2&oDo challenges and get rewarded! Use &f/c&2&o! &f='
     - '&f= &a&oTry out Mob Arena and win rewards! Use &f/ma help &a&oor &f/ma j (arena)&a&o! &f='
+    - '&f= &6&oUse &f/warp leaderboards &6&oto see how you stack up against other players! &f='
     Interval: 1200
   global:
     Messages:
